@@ -1,0 +1,19 @@
+.Header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #141B41;
+}
+
+.Header-text {
+  font-family: "Lobster", cursive;
+  color: white;
+  font-size: 1.5em;
+  opacity: 0.5;
+}
+
+.Header-logo {
+  height: 40px;
+  margin: 0px 5px;
+  opacity: 0.5;
+}
